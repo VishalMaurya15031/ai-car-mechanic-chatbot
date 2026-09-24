@@ -122,9 +122,9 @@ Frontend Web App will be running at `
    - Start Command: `gunicorn mechanic_backend.wsgi:application --bind 0.0.0.0:$PORT`
    - Environment Variables:
      - `DEBUG` = `False`
-     - `DJANGO_SECRET_KEY` = `your-production-secret-key`
-     - `GEMINI_API_KEY` = `your-gemini-api-key`
-2. Test the live health check at `<YOUR_BACKEND_URL>/api/health/`.
+     - `DJANGO_SECRET_KEY` = `MY-production-secret-key`
+     - `GEMINI_API_KEY` = `MY-gemini-api-key`
+2. Test the live health check at `<https://ai-car-mechanic-chatbot-v1dl.onrender.com/`.
 
 ---
 
