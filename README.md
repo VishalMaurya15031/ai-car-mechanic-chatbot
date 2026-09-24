@@ -1,10 +1,6 @@
 # 🚗 Instant Mechanic — AI Car Mechanic Chatbot
 
-[![Full-Stack Assignment](https://img.shields.io/badge/Full--Stack-Intern%20Assignment-amber)](https://github.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue)](https://react.dev/)
-[![Backend](https://img.shields.io/badge/Backend-Django%205%20%2B%20DRF-green)](https://www.django-rest-framework.org/)
-[![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)](https://www.sqlite.org/)
-[![AI Engine](https://img.shields.io/badge/AI-Google%20Gemini%20Free%20API-orange)](https://aistudio.google.com/)
+
 
 > **Instant Mechanic AI** is a full-stack, multimodal conversational platform where vehicle owners can diagnose car mechanical issues, analyze dashboard warning lights, check engine acoustics, receive formal repair diagnosis reports, and book certified mechanics.
 
@@ -91,7 +87,7 @@ Backend API will be running at `http://127.0.0.1:8000/api/`
 
 ### 2. Frontend Setup (React + Vite)
 
-Open a new terminal:
+Open a new terminal:    https://frontend-henna-sigma-yihycpcyzq.vercel.app/
 
 ```bash
 # 1. Navigate to frontend directory
@@ -103,7 +99,7 @@ npm install
 # 3. Start React development server
 npm run dev
 ```
-Frontend Web App will be running at `http://localhost:5173/`
+Frontend Web App will be running at `
 
 ---
 
@@ -115,8 +111,8 @@ Frontend Web App will be running at `http://localhost:5173/`
 3. Import your GitHub repository.
 4. Set **Root Directory** to `frontend`.
 5. Add Environment Variable:
-   - `VITE_API_BASE_URL` = `<YOUR_LIVE_BACKEND_URL>/api`
-6. Click **Deploy**. Vercel will provide your **Live Frontend URL**.
+   
+6. Click **Deploy**. Vercel will provide your **Live Frontend URL https://frontend-henna-sigma-yihycpcyzq.vercel.app/**.
 
 ### 2. Backend Deployment (AWS App Runner / Render / Railway)
 1. **Render / Railway / AWS App Runner:**
